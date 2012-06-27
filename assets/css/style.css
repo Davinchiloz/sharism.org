@@ -55,6 +55,8 @@ a:visited { color: #003780; }
 a:hover { color: #06e; border-bottom: 2px solid #06e;}
 a:focus { outline: thin dotted; }
 
+#main p a { font-weight: bold; }
+
 /* Improve readability when focused and hovered in all browsers: h5bp.com/h */
 a:hover, a:active { outline: 0; }
 
@@ -427,6 +429,10 @@ h1, h2, h3, h4, h5, h6, footer {
 
 #main h1 + p {
 	margin-top: 0;
+}
+
+.star {
+	font-weight: bold;
 }
 
 header h1 {
