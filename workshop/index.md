@@ -8,7 +8,7 @@ description: "Our workshops join international makers with local collaborators"
 
 {% for post in site.categories.workshop %}
 
-## [{{ post.city }}]({{post.url}})
+### [{{ post.city }}]({{post.url}})
 
 {{post.venue}} - {{ post.date | date: "%d %B %Y" }}
 

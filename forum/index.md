@@ -9,7 +9,7 @@ description: "The Sharism Forum features talks and panel discussions by thinkers
 
 {% for post in site.categories.forum %}
 
-## [{{ post.city }}]({{post.url}})
+### [{{ post.city }}]({{post.url}})
 
 {{post.venue}} - {{ post.date | date: "%d %B %Y" }}
 
