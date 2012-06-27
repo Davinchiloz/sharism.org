@@ -14,6 +14,7 @@ function shareCode(name, url) {
 	var code = "<a href='http://sharism.org/agreement' name='Sharing Agreement' rel='license'>✳</a> <a href='" + url + "'>" + name + "</a>";
 	
 	$('textarea#code').val(code);
+	$('#result').html(code);
 }
 
 $(document).ready(function() {
