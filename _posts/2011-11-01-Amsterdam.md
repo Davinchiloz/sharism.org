@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Sharism Presents Amsterdam
+title: Sharism Presents
 category: presents
 city: Amsterdam
 date: 2011-11-01 19:00:00

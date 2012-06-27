@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Sharism Presents Barcelona
+title: Sharism Presents
 category: presents
 city: Barcelona
 date: 2011-02-07 19:30:00

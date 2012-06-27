@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Sharism.org
 description: "The Sharing Agreement. Share to be."
 ---
 

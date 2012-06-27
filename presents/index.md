@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Presents
+title: Sharism Presents
 description: "Sharism Presents are events where sharing is encouraged"
 ---
 

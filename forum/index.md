@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Forum
+title: Sharism Forum
 description: "The Sharism Forum features talks and panel discussions by thinkers, practitioners and activists."
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Workshops
+title: Sharism Workshop
 description: "Our workshops join international makers with local collaborators"
 ---
 

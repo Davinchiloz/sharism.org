@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Sharism Presents Singapore
+title: Sharism Presents
 category: presents
 city: Singapore
 date: 2010-12-03 21:00:00

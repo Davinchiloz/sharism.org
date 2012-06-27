@@ -1,5 +1,5 @@
 auto: true
-title: Sharing Agreement
+title: Sharism
 permalink: /:categories/:title/
 exclude: README.md
 

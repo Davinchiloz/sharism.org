@@ -1,6 +1,3 @@
-Sharism Presents
-================
-
 Sharism is coming to your city.
 -------------------------------
 

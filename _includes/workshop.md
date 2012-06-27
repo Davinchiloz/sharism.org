@@ -1,6 +1,3 @@
-Workshops
-=========
-
 Sharism is coming to your city.
 -------------------------------
 
