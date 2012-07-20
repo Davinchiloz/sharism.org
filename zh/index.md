@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: zh
 title: Sharism.org
 description: "Sharism. Share to be."
 ---
 
-{% include home.html %}
+{% include home-zh.html %}

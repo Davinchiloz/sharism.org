@@ -363,7 +363,7 @@ html, body {
   background-image: url(/assets/img/45degreee_fabric.png);
   background-repeat:repeat;
   height: 100%;
-  font-family: 'Economica';
+  font-family: 'Economica', sans-serif;
 }
 
 .container {
@@ -413,7 +413,7 @@ header a:hover {
 
 h1, h2, h3, h4, h5, h6, footer {
 	font-size: 1em;
-	font-family: 'BebasNeueRegular';
+	font-family: 'BebasNeueRegular', sans-serif;
 	font-weight: normal;
 	text-transform: uppercase;
 	letter-spacing: 0.05em;
