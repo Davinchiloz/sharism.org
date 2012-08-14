@@ -1,7 +1,0 @@
----
-layout: default
-title: Sharism.org
-description: "Sharism. Share to be."
----
-
-{% include home.html %}
